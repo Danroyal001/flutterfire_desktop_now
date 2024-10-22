@@ -1,5 +1,7 @@
 # Firebase's Dart SDK
 
+This package promises to always to up to date. It was forked from [https://github.com/FirebaseExtended/flutterfire_desktop](https://github.com/FirebaseExtended/flutterfire_desktop) which as of today [October 22, 2024] was last updated 2 years ago 🤧.
+
  <a href="https://invertase.link/discord">
    <img src="https://img.shields.io/discord/295953187817521152.svg?style=flat-square&colorA=7289da&label=Chat%20on%20Discord" alt="Chat on Discord">
  </a>
